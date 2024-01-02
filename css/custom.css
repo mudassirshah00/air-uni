@@ -1,0 +1,23 @@
+.card {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+  
+  .card img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .card-text {
+    text-align: center;
+    padding: 15px 0;
+  }
+  
+  .card-text h3 {
+    margin: 0;
+    font-size: 1.5em;
+    color: #333;
+  }
+  
